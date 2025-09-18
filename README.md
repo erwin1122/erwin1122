@@ -37,13 +37,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=erwin1122.erwin1122&"  />
-</div>
-
-###
-
 <!--
 **erwin1122/erwin1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
