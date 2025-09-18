@@ -2,15 +2,16 @@
 
 ###
 
-<p align="left">My name is Erwin and i work as a software developer in germany ☺️</p>
+<p align="left">My name is Erwin and I work as a software developer in Germany ☺️</p>
+
+###
+---
+
+<p align="left">🙌 Creating bugs since 2020<br>📚 I'm currently learning TypeScript</p>
 
 ###
 
-<p align="left">🙌 Creating bugs since 2020<br>📚 I'm currently learning Typescript</p>
-
-###
-
-<h2 align="left">Tools i work with / am interested in</h2>
+<h2 align="left">Things I Tinker With</h2>
 
 ###
 
